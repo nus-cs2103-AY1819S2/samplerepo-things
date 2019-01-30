@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 blues
+=======
+BLUE
+>>>>>>> master
 red
 whitessssssss
 HIHHIIII
